@@ -63,5 +63,7 @@ The tool sums these velocity components to compute:
 ```bash
 git clone https://github.com/Wasserpuncher/cosmic-odometer.git
 cd cosmic-odometer
+pip install rich geopy
+
 
 
